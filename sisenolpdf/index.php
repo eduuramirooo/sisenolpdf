@@ -56,6 +56,7 @@
             Diseñado por Sisenol Solutions © 2023. Todos los derechos reservados. <br>
             <a href="#" class="hover:underline">Política de calidad y medio ambiente</a> |
             <a href="#" class="hover:underline">Política de privacidad</a>
+            <a href="dashboard.php">Admin</a>
         </div>
     </div>
 </footer>
